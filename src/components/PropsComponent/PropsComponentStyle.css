@@ -1,0 +1,14 @@
+.items {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    font-weight: bold;
+    padding: 8px;
+    margin-left: 5px;
+    background-color: aqua;
+    border-style: none;
+    border-radius: 9px;
+}
